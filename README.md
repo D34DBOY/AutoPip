@@ -117,7 +117,7 @@ if __name__ == "__main__":
 
 1. **Clone the Repository**:
    ```bash
-   git clone [https://github.com/yourusername/python-dependency-installer.git](https://github.com/D34DBOY/AutoPip.git)
+   git clone https://github.com/D34DBOY/AutoPip.git
    cd AutoPip
    ```
 
