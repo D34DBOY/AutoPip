@@ -117,8 +117,8 @@ if __name__ == "__main__":
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/python-dependency-installer.git
-   cd python-dependency-installer
+   git clone [https://github.com/yourusername/python-dependency-installer.git](https://github.com/D34DBOY/AutoPip.git)
+   cd AutoPip
    ```
 
 2. **Run the Script**:
